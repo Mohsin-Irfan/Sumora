@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+gtts
+youtube_transcript_api
+requests
+beautifulsoup4
+transformers
+torch
+ffmpeg-python
