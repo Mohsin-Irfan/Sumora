@@ -36,7 +36,7 @@ Sumora is an AI-powered app that generates smart summaries from YouTube videos o
 ## 🚀 How to Run Locally
 
 1. **Clone the repo**  
-   `git clone https://github.com/your-username/Sumora-App.git`
+   `git clone https://github.com/Mohsin-Irfan/Sumora.git`
 
 2. **Navigate to the project**  
    `cd Sumora-App`
