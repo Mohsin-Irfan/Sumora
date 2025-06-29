@@ -20,7 +20,7 @@ Sumora is an AI-powered app that generates smart summaries from YouTube videos o
 - Streamlit  
 - OpenAI Whisper (audio transcription)  
 - Hugging Face Transformers (text summarization)  
-- gTTS (text-to-speech)
+- pyttsx3 (text-to-speech)
 
 ---
 
